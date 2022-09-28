@@ -1,2 +1,2 @@
 # Summer_Analytics
-Self Practising
+Self Practising resources and notebooks for Summer Analytics of Consulting & Analytics Club IIT Guwahati
